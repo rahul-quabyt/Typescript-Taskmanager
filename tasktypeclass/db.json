@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": "hwk5pmpds",
+      "title": "Organize the Bookshelf",
+      "desc": "Sort all the books on your bookshelf by genre, author, or color. Make sure to arrange them neatly and consider adding bookends or decorative items for a polished look.",
+      "status": "Completed",
+      "isImportant": false
+    },
+    {
+      "id": "4d87kckhw",
+      "title": "Prepare a Weekly Meal Plan",
+      "desc": "Create a meal plan for the upcoming week. Include breakfast, lunch, dinner, and snacks. Make a shopping list based on the ingredients needed and consider any dietary preferences or restrictions.",
+      "status": "Incomplete",
+      "isImportant": true
+    },
+    {
+      "id": "zmp72xonv",
+      "title": "Update Your Resume",
+      "desc": "Revise your resume to include recent job experiences, skills, and accomplishments. Ensure that the formatting is clean and professional. Tailor it to align with the type of roles you’re interested in.\n",
+      "status": "Completed",
+      "isImportant": false
+    },
+    {
+      "id": "mjyiij8tf",
+      "title": "Clean Out Your Email Inbox",
+      "desc": "Go through your email inbox and delete or archive old, irrelevant messages. Organize important emails into folders and set up filters to manage incoming messages more efficiently.",
+      "status": "Incomplete",
+      "isImportant": true
+    },
+    {
+      "id": "gjxbpoay8",
+      "title": "Plant a Small Herb Garden",
+      "desc": "Choose a variety of herbs you like, such as basil, mint, or rosemary. Plant them in small pots or a garden bed. Ensure they get enough sunlight and water, and keep an eye on their growth.",
+      "status": "Completed",
+      "isImportant": false
+    },
+    {
+      "id": "5maew3vnj",
+      "title": "small task",
+      "desc": "small description \n",
+      "status": "Completed",
+      "isImportant": false
+    }
+  ]
+}
