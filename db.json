@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Connect with Project Lead",
+      "desc": "Communicate with the team lead to clarify the SRS and work on the instructed tasks, push status updates at the end of the day \n",
+      "status": "Completed",
+      "important": false,
+      "id": "4",
+      "isImportant": false
+    },
+    {
+      "id": "aac6",
+      "title": "Water the Plants",
+      "desc": "Water the plants before they dry out and spray some pesticides over the flowers and fruits",
+      "status": "Incomplete",
+      "important": false,
+      "isImportant": true
+    },
+    {
+      "title": "Finish with Project",
+      "desc": "Complete the following :\n-meet the mentor\n-fix a topic to work on\n-create flowcharts",
+      "status": "Completed",
+      "important": false,
+      "id": "d523"
+    },
+    {
+      "title": "fewrt",
+      "desc": "defrgthj defrgthj defrgthjdefrgthj defrgthj defrgthj defrgthj defrgthj defrgthjdefrgthj  defrgthj defrgthj defrgthj",
+      "status": "Incomplete",
+      "important": false,
+      "id": "dafb"
+    }
+  ]
+}
